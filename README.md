@@ -1,4 +1,4 @@
-# _{My First Website Project}_
+# _My First Website Project_
 
 #### _{Its our first website project}, {03/17/20}_
 
