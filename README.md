@@ -1,8 +1,8 @@
 # _My First Website Project_
 
-#### _{Its our first website project}, {03/17/20}_
+#### _Its our first website project, 03/17/20_
 
-#### By _**{Sean D. Haydee L.}**_
+#### By _**Sean D. Haydee L.**_
 
 ## Description
 
